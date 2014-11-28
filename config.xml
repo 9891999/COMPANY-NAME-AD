@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<widget xmlns="http://www.w3.org/ns/widgets" xmlns:gap="http://phonegap.com/ns/1.0" id="com.insail.ad" version="1.0.0">
+	<name>HK 水牌</name>
+	<description>Insail Company Name</description>
+	<author href="http://www.insail.net" email="info@insail.net">ITX</author>
+	<feature name="Device">
+		<param name="ios-package" value="CDVDevice"/>
+		<param name="android-package" value="org.apache.cordova.device.Device" />
+	</feature>
+	<icon src="/resources/icons/Icon.png" gap:role="default"/>
+	<gap:splash src="/resources/startup/startup.png"/>
+</widget>
